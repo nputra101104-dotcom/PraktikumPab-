@@ -62,8 +62,6 @@ class ProfilePage extends StatelessWidget {
             ),
 
             const SizedBox(height: 20),
-
-            // DATA PROFILE
             profileItem(Icons.person, "PAB 2026"),
             profileItem(Icons.phone, "1462300034"),
             profileItem(Icons.email, "nputra101104@gmail.com"),
