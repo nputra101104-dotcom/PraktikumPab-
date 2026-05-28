@@ -20,8 +20,6 @@ class ProfilePage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-
-            // HEADER
             Container(
               height: 170,
               width: double.infinity,
