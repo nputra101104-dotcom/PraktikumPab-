@@ -61,7 +61,6 @@ class _CineframePageState extends State<CineframePage> {
                     ],
                   ),
 
-                  // ROW 1
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
@@ -80,7 +79,6 @@ class _CineframePageState extends State<CineframePage> {
                     ],
                   ),
 
-                  // ROW 2
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
